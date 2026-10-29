@@ -1,0 +1,2 @@
+# No third-party Python packages required.
+# Tkinter comes with Python on many systems; on Debian/Ubuntu install python3-tk.
