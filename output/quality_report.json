@@ -1,0 +1,18 @@
+{
+  "records": 52608,
+  "start_lst": "2019-01-01 00:00",
+  "end_lst": "2024-12-31 23:00",
+  "expected_hours_in_span": 52608,
+  "missing_hours": 0,
+  "coverage_pct": 100.0,
+  "time_standard": "LST as supplied; no timezone conversion",
+  "load": {
+    "source": "weather_records.csv",
+    "accepted_rows": 52608,
+    "rejected_rows": 0,
+    "duplicate_rows": 0,
+    "ignored_columns": [],
+    "rejection_examples": []
+  },
+  "excluded_column": "PSC is excluded; PS is used for pressure."
+}

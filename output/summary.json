@@ -1,0 +1,48 @@
+{
+  "count": 52608,
+  "start_lst": "2019-01-01 00:00",
+  "end_lst": "2024-12-31 23:00",
+  "expected_hours": 52608,
+  "missing_hours": 0,
+  "coverage_pct": 100.0,
+  "statistics": {
+    "T2M": {
+      "mean": 25.47797616332117,
+      "median": 26.64,
+      "minimum": 7.53,
+      "maximum": 43.27,
+      "std_population": 5.627893449556105
+    },
+    "RH2M": {
+      "mean": 77.31436435523115,
+      "median": 82.02,
+      "minimum": 14.88,
+      "maximum": 100.0,
+      "std_population": 19.182968763320083
+    },
+    "PS": {
+      "mean": 100.72932747871046,
+      "median": 100.73,
+      "minimum": 98.36,
+      "maximum": 102.1,
+      "std_population": 0.5635029887007929
+    },
+    "WS10M": {
+      "mean": 2.7569719434306568,
+      "median": 2.46,
+      "minimum": 0.01,
+      "maximum": 18.39,
+      "std_population": 1.4927894390300793
+    },
+    "PRECTOTCORR": {
+      "mean": 0.3053624923965937,
+      "median": 0.02,
+      "minimum": 0.0,
+      "maximum": 27.31,
+      "std_population": 0.7816244709261607
+    }
+  },
+  "observed_rainfall_mm": 16064.51,
+  "wet_hours": 19899,
+  "wet_hour_fraction_pct": 37.825045620437955
+}

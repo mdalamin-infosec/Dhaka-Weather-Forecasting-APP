@@ -1,0 +1,31 @@
+{
+  "year": 2024,
+  "window_hours": 24,
+  "horizon_hours": 24,
+  "forecast_days": 366,
+  "skipped_days": 0,
+  "evaluated_hours": 8784,
+  "expected_target_hours": 8784,
+  "coverage_pct": 100.0,
+  "temperature_c": {
+    "rolling_mean": {
+      "mae": 2.7603718774367287,
+      "rmse": 3.335716496409543
+    },
+    "last_observation": {
+      "mae": 2.985120673952654,
+      "rmse": 4.136746051690242
+    },
+    "previous_day_same_hour": {
+      "mae": 0.8410712659380746,
+      "rmse": 1.1336292656467468
+    }
+  },
+  "rainfall_mm_per_hour": {
+    "rolling_mean": {
+      "mae": 0.34397412791547016,
+      "rmse": 1.074671558230605
+    }
+  },
+  "protocol": "Issue at previous day 23:00 LST. Only observations up to each cutoff enter the forecast."
+}
