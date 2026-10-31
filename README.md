@@ -109,7 +109,7 @@ Dhaka-Weather-Forecasting-APP/
 ├── docs/                 # Documentation
 ├── figures/              # Figures (currently optional)
 ├── screenshots/          # GUI screenshots (currently optional)
-└── reports/              # Reports (currently optional)
+└── reports/              # Document of project Report 
 ```
 
 ## 🧠 Python Concepts Demonstrated
